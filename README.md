@@ -9,6 +9,7 @@
 **Grupo:** 1  
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
 **Cuatrimestre:** Septiembre - Diciembre 2024
+
 **Docente:** Senén Aldahir Mayorga García
 
 **Asignatura:** Aplicaciones Web Progresivas
